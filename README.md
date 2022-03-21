@@ -44,7 +44,7 @@ A todos los ```hipervinculos``` del documento HTML les ponemos un color de **#ff
 
 ### REGLA Nº11
 
-Para el ```ìd``` footer 
+Para el ```ìd``` footer alineamos el texto en al **centro**, el fondo de color **#17111b**, color **#c3b9b6** y de relleno **12 pixeles**
 
 ### REGLA Nº12
 
@@ -59,3 +59,5 @@ Para el ```ìd``` footer
 
 
 ### REGLA Nº15
+
+Para la clase ```flex``` un mostrar **flex**, alineamos los items al **centro** y justificamos el contenido al **centro**
