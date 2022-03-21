@@ -44,20 +44,20 @@ A todos los ```hipervinculos``` del documento HTML les ponemos un color de **#ff
 
 ### REGLA Nº11
 
-Para el ```ìd``` footer alineamos el texto en al **centro**, el fondo de color **#17111b**, color **#c3b9b6** y de relleno **12 pixeles**
+Para el ```ìd``` footer alineamos el texto en al **centro**, el fondo de color **#17111b**, color **#c3b9b6** y de relleno **12 pixeles**.
 
 ### REGLA Nº12
 
-Para el ```id``` **imagen1** le añadimos anchura de **95%**
+Para el ```id``` **imagen1** le añadimos anchura de **95%**.
 
 ### REGLA Nº13
 
-Para el ```id``` **imagen2** le añadimos anchura de **95%**
+Para el ```id``` **imagen2** le añadimos anchura de **95%**.
 
 ### REGLA Nº14
 
-
+Ahora hacemos un **selector universal** y hacemos que el tamaño de la caja sea un **cuadro de borde**.
 
 ### REGLA Nº15
 
-Para la clase ```flex``` un mostrar **flex**, alineamos los items al **centro** y justificamos el contenido al **centro**
+Para la clase ```flex``` un mostrar **flex**, alineamos los items al **centro** y justificamos el contenido al **centro**.
