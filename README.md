@@ -1,6 +1,6 @@
 # A5-reglas
 
-En estas instrucciones aprenderás a añadirle estilos a una pagina HTML ;)
+##### En estas instrucciones aprenderás a añadirle estilos a una pagina HTML ;)
 
 ### REGLA Nº1
 
