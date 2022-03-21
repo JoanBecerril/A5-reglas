@@ -48,11 +48,11 @@ Para el ```ìd``` footer alineamos el texto en al **centro**, el fondo de color 
 
 ### REGLA Nº12
 
-
+Para el ```id``` **imagen1** le añadimos anchura de **95%**
 
 ### REGLA Nº13
 
-
+Para el ```id``` **imagen2** le añadimos anchura de **95%**
 
 ### REGLA Nº14
 
