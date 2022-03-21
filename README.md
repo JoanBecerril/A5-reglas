@@ -56,7 +56,7 @@ Para el ```id``` **imagen2** le añadimos anchura de **95%**.
 
 ### REGLA Nº14
 
-Ahora hacemos un **selector universal** y hacemos que el tamaño de la caja sea un **cuadro de borde**.
+Ahora hacemos un ```selector universal``` y hacemos que el tamaño de la caja sea un **cuadro de borde**.
 
 ### REGLA Nº15
 
