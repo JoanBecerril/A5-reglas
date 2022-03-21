@@ -24,15 +24,15 @@ Para el h1 de ```id``` **main** le ponemos un tamaño de fuente de **40 pixeles*
 
 ## REGLA Nº6
 
-Para el ```iframe``` le ponemos que tenga una altura de **330 pixeles** y un ancho de **100%**
+Para todos los ```iframe``` le ponemos que tenga una altura de **330 pixeles** y un ancho de **100%**
 
 ## REGLA Nº7
 
-
+Para el ```h2``` con el texto "ORIGEN DEL COVER DE LA MIXTAPE" con el id **spoiler** le ponemos la fuente de texto 'BhuTuka Expanded One'
 
 ## REGLA Nº8
 
-
+Para todas las ```imagenes``` del documento les ponemos un ancho de **100%**
 
 ## REGLA Nº9
 
